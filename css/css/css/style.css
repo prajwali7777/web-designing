@@ -1,0 +1,18 @@
+p{
+    padding-left: 50px;
+    color: rgb(222, 190, 151);
+}
+h1{
+    color:aquamarine;
+    text-align: center;
+    margin-top: 50px;
+}
+.odd{
+    color: rgb(115, 86, 142);
+}
+.even{
+    color:rgb(179, 116, 116)
+}
+#third{
+    color: rgb(66, 58, 58);
+}

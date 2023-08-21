@@ -1,0 +1,9 @@
+/* Add margin to the search form to increase spacing between the search and nav */
+.navbar-brand{
+    margin-left: 20px;
+}
+form.d-flex {
+    margin-left: 755px; /* Adjust the value as needed to increase or decrease the spacing */
+  }
+  
+  
